@@ -30,4 +30,3 @@ class Solution:
                 # 同値連続なのでprev_unique_nodeの更新は不要
             curr_node = curr_node.next
         return dummy_head.next
-
