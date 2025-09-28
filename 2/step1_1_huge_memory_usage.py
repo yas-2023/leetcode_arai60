@@ -28,4 +28,3 @@ class Solution:
 
         total_value = list_to_int(l1) + list_to_int(l2)
         return int_to_list(total_value)
-        
