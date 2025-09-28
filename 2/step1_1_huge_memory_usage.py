@@ -9,7 +9,7 @@ class Solution:
             output_number = 0
             base_number = 0
             while node is not None:
-                output_number += node.val * 10 ** base_number
+                output_number += node.val * 10**base_number
                 base_number += 1
                 node = node.next
             return output_number
