@@ -22,7 +22,7 @@ class Solution:
             if len(output_list_number) > 1:
                 for index in range(len(output_list_number) - 1):
                     print(index)
-                    output_list_number[index].next = output_list_number[index+1]
+                    output_list_number[index].next = output_list_number[index + 1]
 
             return output_list_number[0]
 

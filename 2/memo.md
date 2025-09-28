@@ -41,7 +41,7 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 ## Step.4: レビューをもとにコードを修正する
 
 ## その他
-- エディタ（vscode, windsurf）でpep8の適用がうまくされない？ ,の後ろの空白なしは強調表示されるが、算術演算子の前後の空白なしは強調表示されない
+- エディタ（vscode, windsurf）でpep8の適用
 - 現状のsetting.jsonの内容
 ```
 {
