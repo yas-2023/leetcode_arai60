@@ -93,6 +93,8 @@ $ git worktree add -b 83 ../83 origin/83
 # 新規ブランチの場合(末尾のブランチ指定をmainにする)
 # 82ブランチを新規作成してチェックアウト
 $ git worktree add -b 82 ../82 origin/main
+# push時
+$ git push origin HEAD
 
 
 # ディレクトリ構造
